@@ -1,0 +1,12 @@
+Reference,Qty,Value,Supplier,Supplier PN
+BT1,50,Battery_Conn,DigiKey,455-1704-ND
+BT2,50,Battery_Cell,DigiKey,1528-1857-ND
+"C1,C2",100,4.7u,DigiKey,399-14393-2-ND
+"C4,C5,C6",150,0.01u,DigiKey,BC1084TR-ND
+LS1,50,Speaker,DigiKey,433-1192-ND
+"R6,R7,R8,R9,R10",250,10k,DigiKey,CF14JT10K0TR-ND
+SW1,150,BTN2,DigiKey,EG1829-ND
+SW2,50,SW_SPDT,DigiKey,CKN9559-ND
+U1,50,Itsy-Bitsy,DigiKey,1528-2619-ND
+U2,50,MCP73831-2-OT,DigiKey,MCP73831T-2ACI/OTTR-ND
+U3,50,Display,Adafruit ,4741
