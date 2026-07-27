@@ -41,4 +41,6 @@ The enclosure is made of three main pieces; the top and bottom part of the enclo
 The bottom piece holds the battery and the  PCB in place with heat set inserts embedded into the frame. The translucent front cover piece snaps into the top part of the enclosure. This then fits to the bottom part of the enclosure, sealing the electronics inside. The top part of the enclosure has heat set inserts and screws to the bottom part of the enclosure. We also had to add button and switch extenders so that the user could press the buttons and flip the power switch from the outside of the enclosure. Fully assembled the Tamagotchi 3D rendering looks like the following. The files `Assembly Instructions.pdf` describe how to assemble a Tamagotchi with many more photos explaining each step.
 ![comparison](images/comparison.png)
 
+## Special Thanks
 
+Huge thank you to Dani and Sydney for helping me create this. It was a ton of fun to work with you and see our rendition of Tamagotchi come to life. Lets do it again.
