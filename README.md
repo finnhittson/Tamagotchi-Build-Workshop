@@ -5,7 +5,7 @@ This repo documents a Tamagotchi that was created as a lab64 workshop at Stanfor
 
 ## Electrical
 
-The electronics inside the Tamagotchi were a custom PCB that utilized a [ItsyBitsy](https://www.adafruit.com/product/3675?srsltid=AfmBOooAwEcHuKG2jr8HvIwYrDCV_mU2HbkCFx2qz2rQIsxoqrmatH5F) microcontroller, [128x128 OLED Graphic Display](https://www.adafruit.com/product/5297) by [Adafruit](adafruit.com), a [2000mAh battery](https://www.adafruit.com/product/2011?gad_source=1&gad_campaignid=23986111167&gbraid=0AAAAADx9JvTt9d2v0q4tRx3Alx5nwjkJV&gclid=Cj0KCQjw4JbTBhCoARIsALWUaBv_qoJ-Qvg_jeG3coJ9SOEnbvAB3v0Xe3A2UNFlqi8Rw7P-EVBBnnsaAveREALw_wcB), three buttons, and a few other electronics. A full bill of materials is avaliable in the `electrical/` directory. A schematic of the circuit is the following image.
+The electronics inside the Tamagotchi were a custom PCB that utilized a [ItsyBitsy](https://www.adafruit.com/product/3675?srsltid=AfmBOooAwEcHuKG2jr8HvIwYrDCV_mU2HbkCFx2qz2rQIsxoqrmatH5F) microcontroller, [128x128 OLED Graphic Display](https://www.adafruit.com/product/5297) by Adafruit, a [2000mAh battery](https://www.adafruit.com/product/2011?gad_source=1&gad_campaignid=23986111167&gbraid=0AAAAADx9JvTt9d2v0q4tRx3Alx5nwjkJV&gclid=Cj0KCQjw4JbTBhCoARIsALWUaBv_qoJ-Qvg_jeG3coJ9SOEnbvAB3v0Xe3A2UNFlqi8Rw7P-EVBBnnsaAveREALw_wcB), three buttons, and a few other electronics. A full bill of materials is avaliable in the `electrical/` directory. A schematic of the circuit is the following image.
 
 ![schematic](images/schematic.png)
 
